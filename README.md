@@ -1,5 +1,5 @@
 
-👋 Hello! I'm Khushbu Ramoliya 
+👋 Hello! I'm Khushbu Ramoliya.
 
 🚀 I am a passionate software developer with a love for turning ideas into elegant, efficient, and user-friendly applications.
 
