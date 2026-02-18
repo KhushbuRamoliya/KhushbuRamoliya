@@ -86,13 +86,7 @@ I'm a **Data Analyst** / **Data Engineer** <img src="https://media.giphy.com/med
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KhushbuRamoliya&theme=radical&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KhushbuRamoliya&theme=radical&border_radius=4.3&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)](https://git.io/streak-stats)
-
-[![Khushbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhushbuRamoliya&show_icons=true&theme=radical&icon_color=FF6B35)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushbuRamoliya&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
