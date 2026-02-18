@@ -54,40 +54,27 @@ I'm a **Data Analyst** / **Data Engineer** <img src="https://media.giphy.com/med
 - :robot: Machine Learning
 - :brain: Artificial Intelligence (AI)
 - :chart_with_upwards_trend: Data Visualization and Modeling - (Power BI, Tableau)
-- :computer: SQL - (MySQL, MS SQL Server)
+- :computer: SQL - (MySQL, MS SQL Server, BigQuery, Snowflake)
 - :chart: Excel
 
 ---
 
 **:hammer_and_wrench: Languages and Tools :**
 
-<div>
-  <!-- Languages -->
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-
-  <!-- Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-
-  <!-- ETL -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" title="Apache Airflow (ETL)" alt="Airflow" width="40" height="40"/>&nbsp;
-
-  <!-- Data & ML Libraries -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="60" height="60"/>&nbsp;
-
-  <!-- BI & Visualization -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
-
-  <!-- Databases -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL Server" alt="MSSQL Server" width="40" height="40"/>&nbsp;
-
-  <!-- Dev Tools -->
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" title="Streamlit" alt="Streamlit" width="60" height="60"/>&nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -109,17 +96,9 @@ I'm a **Data Analyst** / **Data Engineer** <img src="https://media.giphy.com/med
 
 </div>
 
----
-
-### 🙏 Credits
-- README template inspired by [Yogesh Kasar](https://github.com/yogeshkasar778)
-
 </div>
 
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
-
-
-
