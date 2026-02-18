@@ -33,14 +33,13 @@
 
 👩‍💻 **About Me**:
 
-I'm a **Data Analyst** / **Data Engineer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> passionate about turning raw data into meaningful insights.
+I'm a **Data Engineer** / **Data Analyst** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with **2 years of experience in Data Engineering** and **1.5 years in Data Analytics**, passionate about building robust data pipelines and turning raw data into meaningful insights.
 
-- :books: I'm currently learning **Data Analytics / Data Science / AI** and exploring the fascinating world of data analysis, data visualization, and AI technology.
-- :briefcase: I'm passionate about becoming a skilled **Data Scientist** and **Data Analyst**.
-- :globe_with_meridians: I'm always eager to collaborate on exciting data-related projects or discuss technology and data science topics.
+- :wrench: I have hands-on experience designing and maintaining data pipelines, ETL workflows, and cloud-based data solutions.
+- :bar_chart: I bring strong analytical skills to uncover trends, build dashboards, and support data-driven decision making using Power BI and Tableau.
+- :globe_with_meridians: I'm always eager to collaborate on exciting data engineering or analytics projects.
 - :email: Feel free to reach out to me via email: khushburamoliya17@gmail.com
 - :right_anger_bubble: You can connect with me on LinkedIn: [Khushbu Ramoliya](https://www.linkedin.com/in/khushbu-ramoliya-740042115/)
-
 ---
 
 **:file_folder: Projects**:
