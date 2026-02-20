@@ -80,15 +80,6 @@ I'm a **Data Engineer** / **Data Analyst** <img src="https://media.giphy.com/med
 
 ---
 
-### 🔥 My Stats :
-
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KhushbuRamoliya&theme=radical&border_radius=4.3&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)](https://git.io/streak-stats)
-
-</div>
-
-</div>
 
 <!-- Animated Footer -->
 <div align="center">
