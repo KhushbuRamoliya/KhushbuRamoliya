@@ -16,17 +16,6 @@
 
 <br/>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Khushbu+Ramoliya+👋;Data+Analyst+%7C+Data+Engineer;Passionate+about+turning+data+into+insights;Always+learning+%26+growing+🚀" alt="Typing SVG"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 <div align="left">
