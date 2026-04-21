@@ -22,11 +22,16 @@
 
 👩‍💻 **About Me**:
 
-I'm a **Data Engineer** / **Data Analyst** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with **2 years of experience in Data Engineering** and **1.5 years in Data Analytics**, passionate about building robust data pipelines and turning raw data into meaningful insights.
+I'm a **Senior Data Analyst / Data Engineer** with **5+ years of experience** in building scalable data pipelines, optimizing ETL workflows, and delivering actionable insights across **financial services and enterprise environments**.
 
-- :wrench: I have hands-on experience designing and maintaining data pipelines, ETL workflows, and cloud-based data solutions.
-- :bar_chart: I bring strong analytical skills to uncover trends, build dashboards, and support data-driven decision making using Power BI and Tableau.
-- :globe_with_meridians: I'm always eager to collaborate on exciting data engineering or analytics projects.
+- 🔧 Expertise in **ETL pipelines, data modeling, and big data processing**
+- ☁️ Strong experience with **Azure (ADF, Databricks, ADLS, Synapse)**
+- 📊 Skilled in **data visualization (Power BI, Tableau)** and stakeholder reporting
+- 🤖 Experience in **machine learning (churn prediction, segmentation, forecasting)**
+- 📈 Proven track record of improving **data accessibility (50%) and accuracy (30%)**
+- 👥 Experience leading teams and collaborating in **Agile/Scrum environments**
+
+📫 Reach me: **khushburamoliya17@gmail.com**
 - :email: Feel free to reach out to me via email: khushburamoliya17@gmail.com
 - :right_anger_bubble: You can connect with me on LinkedIn: [Khushbu Ramoliya](https://www.linkedin.com/in/khushbu-ramoliya-740042115/)
 ---
