@@ -31,7 +31,6 @@ I'm a **Senior Data Analyst / Data Engineer** with **5+ years of experience** in
 - 📈 Proven track record of improving **data accessibility (50%) and accuracy (30%)**
 - 👥 Experience leading teams and collaborating in **Agile/Scrum environments**
 
-📫 Reach me: **khushburamoliya17@gmail.com**
 - :email: Feel free to reach out to me via email: khushburamoliya17@gmail.com
 - :right_anger_bubble: You can connect with me on LinkedIn: [Khushbu Ramoliya](https://www.linkedin.com/in/khushbu-ramoliya-740042115/)
 ---
