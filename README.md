@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/khushbu-ramoliya-740042115/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:khushburamoliya17@gmail.com">
+  <a href="mailto:khushbubenkramoliya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=KhushbuRamoliya&style=for-the-badge&color=ff6b35" alt="Profile Views"/>
@@ -22,7 +22,7 @@
 
 👩‍💻 **About Me**:
 
-I'm a **Senior Data Analyst / Data Engineer** with **5+ years of experience** in building scalable data pipelines, optimizing ETL workflows, and delivering actionable insights across **financial services and enterprise environments**.
+I'm a **Senior Data Analyst / Data Engineer** with **5+ years of experience** in building scalable data pipelines, optimizing ETL workflows, and delivering actionable insights across **Banking, Retail services and enterprise environments**.
 
 - 🔧 Expertise in **ETL pipelines, data modeling, and big data processing**
 - ☁️ Strong experience with **Azure (ADF, Databricks, ADLS, Synapse)**
@@ -31,7 +31,7 @@ I'm a **Senior Data Analyst / Data Engineer** with **5+ years of experience** in
 - 📈 Proven track record of improving **data accessibility (50%) and accuracy (30%)**
 - 👥 Experience leading teams and collaborating in **Agile/Scrum environments**
 
-- :email: Feel free to reach out to me via email: khushburamoliya17@gmail.com
+- :email: Feel free to reach out to me via email: khushbubenkramoliya@gmail.com
 - :right_anger_bubble: You can connect with me on LinkedIn: [Khushbu Ramoliya](https://www.linkedin.com/in/khushbu-ramoliya-740042115/)
 ---
 
